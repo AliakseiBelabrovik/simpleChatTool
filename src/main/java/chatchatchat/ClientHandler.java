@@ -7,6 +7,7 @@ import java.net.Socket;
 import java.util.Enumeration;
 import java.util.Vector;
 
+//class to handle the clients' interaction
 public class ClientHandler implements Runnable {
     protected Socket socket;
     protected DataInputStream dataInputStream;
