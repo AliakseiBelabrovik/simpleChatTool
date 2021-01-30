@@ -1,2 +1,9 @@
-# simpleChatTool
-Simple multi-user chat tool using multithreading and socket programming
+# Int-ernational
+Chattool 2021
+coded by Int[] ernational
+
+Aliaksei B. - Andy B. - Samuel H. - Anas K.
+
+Run this applicates with gradle
+
+
