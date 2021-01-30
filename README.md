@@ -4,6 +4,6 @@ coded by Int[] ernational
 
 Aliaksei B. - Andy B. - Samuel H. - Anas K.
 
-A simple chat tool with multithreading, using gradle
+University project: A simple chat tool with multithreading, using gradle
 
 
